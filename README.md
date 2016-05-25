@@ -46,11 +46,11 @@ There are 3 types of cards:
 
 2. **Change Character cards**
 
-Upon drawing this card, you must exchange character with the person seated in front of you .
+    Upon drawing this card, you must exchange character with the person seated in front of you .
 
 3. **Toast cards**
 					
-Upon drawing this card, all the player must stop their actions and pretend to toast their rum above the table. 
+    Upon drawing this card, all the player must stop their actions and pretend to toast their rum above the table. 
 
 Ideally the cards should be embossed in a braille-like system so that the blind pirate can read them. We haven’t tried this yet, so we just let the blind pirate peek at their card after drawing it.
 
